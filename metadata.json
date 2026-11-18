@@ -1,0 +1,6 @@
+{
+  "name": "DARK GRAVITY",
+  "description": "High-octane 3D sci-fi First Person Shooter designed for Android mobile touchscreens and desktop play, featuring 5 missions, 4 game modes, futuristic energy weapons, gravity abilities, and boss encounters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
